@@ -12,7 +12,7 @@ function App() {
         <DrawingBoard />
         <GuessingBoard />
       </div>
-      
+
       <div class="right">
         <ChattingRoom />
       </div>
